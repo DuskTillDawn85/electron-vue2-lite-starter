@@ -5,6 +5,8 @@
 npm install
 ```
 
+> https://github.com/JasonBai007/electron-vue-starter
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
