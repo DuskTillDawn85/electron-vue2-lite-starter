@@ -1,11 +1,7 @@
-# lite-starter
+# Vue2-Electron Starter
 
-## Project setup
-```
-npm install
-```
 
-> https://github.com/JasonBai007/electron-vue-starter
+> [Origin Repo](https://github.com/JasonBai007/electron-vue-starter)
 
 ### Compiles and hot-reloads for development
 ```
